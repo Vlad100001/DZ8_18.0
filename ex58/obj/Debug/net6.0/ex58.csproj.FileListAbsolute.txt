@@ -1,0 +1,15 @@
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\bin\Debug\net6.0\ex58.exe
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\bin\Debug\net6.0\ex58.deps.json
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\bin\Debug\net6.0\ex58.runtimeconfig.json
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\bin\Debug\net6.0\ex58.dll
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\bin\Debug\net6.0\ex58.pdb
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.csproj.AssemblyReference.cache
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.AssemblyInfoInputs.cache
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.AssemblyInfo.cs
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.csproj.CoreCompileInputs.cache
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.dll
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\refint\ex58.dll
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.pdb
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ex58.genruntimeconfig.cache
+C:\Users\ДОМ\Downloads\DZ8_18062023\DZ8_18.06.2023\ex58\obj\Debug\net6.0\ref\ex58.dll
